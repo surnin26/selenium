@@ -1,2 +1,2 @@
 # selenium
-My homework from Selenium course
+My homework from Selenium course.
